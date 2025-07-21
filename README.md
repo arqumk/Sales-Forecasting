@@ -9,11 +9,11 @@ A leading U.S.-based iron casting manufacturer needed better sales forecasts. Th
 3. They needed an automated solution that could integrate seamlessly into their existing workflows.
    
 ## Solution
-a) Built an efficient, automated pipeline to clean and preprocess sales data from an Oracle database. 
-b) Trained multiple regression models using scikit-learn and selected the most accurate one, achieving a Mean Absolute Percentage Error (MAPE) of less than 20%. 
-c) Developed a bash script to automate the retraining process every three months, keeping the forecasts up-to-date.
+- Built an efficient, automated pipeline to clean and preprocess sales data from an Oracle database.
+- Trained multiple regression models using scikit-learn and selected the most accurate one, achieving a Mean Absolute Percentage Error (MAPE) of less than 20%.
+- Developed a bash script to automate the retraining process every three months, keeping the forecasts up-to-date.
 
 ## Results
-i. Reduced forecasting errors with a MAPE of less than 20%. 
-ii. Improved inventory management and streamlined production scheduling, saving time and costs. 
-iii. Executives received timely insights for confident decision-making.
+- Reduced forecasting errors with a MAPE of less than 20%. 
+- Improved inventory management and streamlined production scheduling, saving time and costs. 
+- Executives received timely insights for confident decision-making.
